@@ -1,0 +1,7 @@
+[tap]
+role = "fields"
+name = "orangereds/orange-field"
+description = "orangereds 的 bottle 优先核心 tap —— formula 同时有 [source] 和 [bottle]（若可用），优先用预编译产物，失败回退源码构建。当前无可用 macOS bottle，全部回退源码构建。"
+formula_count = 8736
+with_bottle = 0
+source = "Homebrew homebrew-core 自动转换 (fb convert)"
